@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:57
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -330,10 +330,12 @@ Overfull \hbox (142.68884pt too wide) in paragraph at lines 56--67
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
-
- []
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
+(F:\LaTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -343,23 +345,24 @@ This may cause the page layout to be inconsistent, however.
 
 [1{C:/Users/umax/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./images/profilepic.jpg>] (resume.aux) ) 
+ <./images/profilepic.jpg>] [2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 11239 strings out of 492925
- 213185 string characters out of 3143181
- 403570 words of memory out of 3000000
- 15115 multiletter control sequences out of 15000+200000
+ 11256 strings out of 492925
+ 213435 string characters out of 3143181
+ 404570 words of memory out of 3000000
+ 15129 multiletter control sequences out of 15000+200000
  536807 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,63p,275b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
-<F:/LaTeX/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/LaTeX/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/
-cmr8.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><F:/LaTeX/fonts/type
-1/public/amsfonts/cm/cmtt12.pfb>
-Output written on resume.pdf (1 page, 372154 bytes).
+ 41i,10n,63p,275b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
+<F:/LaTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/LaTeX
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/LaTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><F:/LaTeX/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cm
+tt12.pfb>
+Output written on resume.pdf (2 pages, 383345 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
