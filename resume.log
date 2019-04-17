@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:52
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -331,6 +331,11 @@ Overfull \hbox (142.68884pt too wide) in paragraph at lines 56--67
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 76--82
+
+ []
+
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.60002pt.
 We now make it that large for the rest of the document.
@@ -352,7 +357,7 @@ Here is how much of TeX's memory you used:
 ts/type1/public/amsfonts/cm/cmr12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/
 cmr8.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><F:/LaTeX/fonts/type
 1/public/amsfonts/cm/cmtt12.pfb>
-Output written on resume.pdf (1 page, 371903 bytes).
+Output written on resume.pdf (1 page, 372154 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
