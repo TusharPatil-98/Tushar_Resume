@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:58
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -345,7 +345,12 @@ This may cause the page layout to be inconsistent, however.
 
 [1{C:/Users/umax/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./images/profilepic.jpg>] [2] (resume.aux) ) 
+ <./images/profilepic.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
+
+ []
+
+[2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  11256 strings out of 492925
  213435 string characters out of 3143181
@@ -354,13 +359,12 @@ Here is how much of TeX's memory you used:
  536807 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,63p,275b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
-<F:/LaTeX/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/LaTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/LaTeX/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><F:/LaTeX/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cm
-tt12.pfb>
-Output written on resume.pdf (2 pages, 383345 bytes).
+<F:/LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/LaTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/LaTeX/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><F:/LaTeX/fonts
+/type1/public/amsfonts/cm/cmr9.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on resume.pdf (2 pages, 383545 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
