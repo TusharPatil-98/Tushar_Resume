@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  18 APR 2019 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  18 APR 2019 00:25
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -477,7 +477,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--100
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
@@ -518,8 +518,8 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 14811 strings out of 492925
- 266822 string characters out of 3143181
+ 14812 strings out of 492925
+ 266828 string characters out of 3143181
  491079 words of memory out of 3000000
  18656 multiletter control sequences out of 15000+200000
  536807 words of font info for 39 fonts, out of 3000000 for 9000
@@ -530,9 +530,9 @@ lic/amsfonts/cm/cmr10.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><F
 :/LaTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><F:/LaTeX/fonts/type1/public/am
 sfonts/cm/cmr9.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><F:/LaTe
 X/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on resume.pdf (3 pages, 390535 bytes).
+Output written on resume.pdf (3 pages, 390641 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 58 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
