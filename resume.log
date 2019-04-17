@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 22:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 23:10
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -319,18 +319,19 @@ This may cause the page layout to be inconsistent, however.
 
  <./images/profilepic.jpg>] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 11215 strings out of 492925
- 212929 string characters out of 3143181
- 400570 words of memory out of 3000000
- 15100 multiletter control sequences out of 15000+200000
- 533296 words of font info for 27 fonts, out of 3000000 for 9000
+ 11217 strings out of 492925
+ 212958 string characters out of 3143181
+ 401570 words of memory out of 3000000
+ 15102 multiletter control sequences out of 15000+200000
+ 533901 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,63p,275b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
 <F:/LaTeX/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 316761 bytes).
+/cm/cmbx12.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/LaTeX/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on resume.pdf (1 page, 330766 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
