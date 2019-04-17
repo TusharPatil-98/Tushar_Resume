@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  18 APR 2019 00:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  18 APR 2019 00:31
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -467,59 +467,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 120--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--121
-
- []
-
-
-Overfull \hbox (72.78735pt too wide) in paragraph at lines 111--121
+Overfull \hbox (72.78735pt too wide) in paragraph at lines 120--130
 []\OT1/cmr/m/n/12 https://github.com/lohitpenu/Internship-eYSIP-2019/blob/maste
 r/Latex/Latex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 120--130
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
  (resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 14812 strings out of 492925
- 266828 string characters out of 3143181
+ 14820 strings out of 492925
+ 266881 string characters out of 3143181
  491079 words of memory out of 3000000
  18656 multiletter control sequences out of 15000+200000
  536807 words of font info for 39 fonts, out of 3000000 for 9000
@@ -530,9 +525,9 @@ lic/amsfonts/cm/cmr10.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><F
 :/LaTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><F:/LaTeX/fonts/type1/public/am
 sfonts/cm/cmr9.pfb><F:/LaTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><F:/LaTe
 X/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on resume.pdf (3 pages, 390641 bytes).
+Output written on resume.pdf (3 pages, 392616 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 67 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
